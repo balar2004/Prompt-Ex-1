@@ -1,6 +1,6 @@
 # Ex.No:1	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-# Name : Bala R
-# Reg No: 212222220007
+## Name : Bala R
+## Reg No: 212222220007
 # Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -9,7 +9,7 @@ Develop a comprehensive report for the following exercises:
 4.	Generative AI impact of scaling in LLMs.
 
 # Output:
-# Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ## 1. Foundational Concepts of Generative AI
 
