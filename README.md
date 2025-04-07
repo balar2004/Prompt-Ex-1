@@ -1,4 +1,4 @@
-# PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Ex.No:1	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 # Name : Bala R
 # Reg No: 212222220007
 # Experiment:
